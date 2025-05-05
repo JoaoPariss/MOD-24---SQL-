@@ -19,6 +19,6 @@ Este repositório contém consultas SQL simples feitas para praticar operações
      - `ID_CLIENTE`
      - **Valor total gasto** (coluna calculada).
 
-5. **[Desafio] Média geral do valor gasto**
+5. **Média geral do valor gasto**
    - Consulta que retorna apenas a **média total do valor gasto**, com base na multiplicação entre valor unitário e quantidade vendida.  
    - Resultado vem em uma única linha com uma única coluna.
